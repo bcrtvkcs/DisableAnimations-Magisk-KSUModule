@@ -26,7 +26,7 @@ Disabling these animations reduces rendering overhead in software graphics trans
 1. [Download the latest release](https://github.com/bcrtvkcs/DisableAnimations-Magisk-KSUModule/releases/latest/download/DisableAnimations.zip).
 2. Flash it via **Magisk**, **KernelSU**, or **KernelSU Next**.
 3. Reboot.
-4. Verify via: `adb shell settings get global window_animation_scale` — should return `0.0`.
+4. Verify via: `adb shell settings get global window_animation_scale` should return `0.0`.
 5. You're all set!
 6. If you experience any issues, please open one through the [Issues](https://github.com/bcrtvkcs/DisableAnimations-Magisk-KSUModule/issues) panel.
 
