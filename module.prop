@@ -1,0 +1,7 @@
+id=DisableAnimations
+name=Disable Animations
+version=v1.0.0
+versionCode=1
+author=BCRTVKCS
+description=Disables window, transition, and animator animations on boot.
+updateJson=https://raw.githubusercontent.com/bcrtvkcs/DisableAnimations-Magisk-KSUModule/main/update.json
